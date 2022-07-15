@@ -1,0 +1,12 @@
+package modelo;
+
+public enum TipoPuntos {
+	ESTRUCTURA,
+	VEHICULO,
+	INVESTIGACION,
+	PROYECTO,
+	DESCUBRIMIENTO,
+	FINANCIEROS,
+	GENERALES,
+	PLANOS
+}

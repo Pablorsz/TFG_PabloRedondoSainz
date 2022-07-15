@@ -1,0 +1,12 @@
+package modelo;
+
+public enum Recurso {
+	MATERIAL,
+	ENERGIA,
+	CIENCIA,
+	ORO,
+	EXPLORACION,
+	FINANCIERO,
+	GENERAL,
+	KRYSTALLIUM
+}
